@@ -1,11 +1,8 @@
 <h1 align="center">Connect 4 with Minimax</h1>
 
-After implementing the Minimax algorithm on TicTacToe (https://github.com/Bloodaxe90/TicTacToe-AI-MINIMAX-), I decided to implement it on Connect 4, as it has a larger state space. Like the TicTacToe Minimax project, this one also uses JavaFX, SceneBuilder, and Alpha-Beta Pruning. However, it also includes heuristics, which were added after I discovered long wait times when the AI was picking a move.
-
-
 <h2>Description:</h2>
 <p>
-After implementing the Minimax algorithm on TicTacToe (https://github.com/Bloodaxe90/TicTacToe-AI-MINIMAX-), I decided to implement it on Connect 4, as it has a larger state space. 
+After implementing the Minimax algorithm on TicTacToe (https://github.com/Bloodaxe90/TicTacToe-AI-MINIMAX), I decided to implement it on Connect 4, as it has a larger state space. 
 </p>
 <p>
 Like the TicTacToe Minimax project, this one also uses JavaFX, SceneBuilder, and Alpha-Beta Pruning. However, it also includes heuristics, which were added after I discovered long wait times when the AI was picking a move.
@@ -28,7 +25,7 @@ Run the main method in the Connect4Application class
 <h2>Results:</h2>
 
 A screenshot of the final game  
-![image](https://github.com/user-attachments/assets/5de14e3a-5c86-4ce7-940e-ef994282049a)
+![image](https://github.com/user-attachments/assets/6a15fbae-33ce-4cef-b40c-48aadd3ca62f)
 
 
 
