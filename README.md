@@ -18,7 +18,7 @@ Run the main method in the Connect4Application class
   Its Connect4 (You always play first as blue)
 </p>
 <ul>
-    <li><strong>Left Click Top Buttons:</strong> Places a peice in the corresponding column</li>
+    <li><strong>Top Buttons:</strong> Places a peice in the corresponding column</li>
     <li><strong>Space Bar or Left Click (on Game Over screen):</strong> Resets the game.</li>
 </ul>
 
