@@ -11,7 +11,7 @@
 
 <VBox fx:id="rootPane" alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.connect4_minimax.Connect4_AI_Controller">
     <children>
-        <Label fx:id="label" text="Connect 4" style="-fx-font-size: 26px;" visible="true"/>
+        <Label fx:id="label" text="Connect 4" style="-fx-font-size: 26px;" visible="false"/>
         <GridPane fx:id="gridPane" hgap="0" vgap="0" alignment="CENTER" styleClass="game-board-grid">
             <columnConstraints>
                 <ColumnConstraints halignment="CENTER" hgrow="SOMETIMES" minWidth="50.0" prefWidth="60.0" />

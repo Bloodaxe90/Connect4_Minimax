@@ -45,15 +45,15 @@ public class Connect4_AI_Controller implements Initializable {
 
                 if(label.isVisible()) {
                     reset();
-                }
-
-                handleHumanPlayer(i);
-
-                String result = checkWin(actualBoard);
-                if (result != null) {
-                    gameOver(result);
                 } else {
-                    handleAIPlayer();
+                    handleHumanPlayer(i);
+
+                    String result = checkWin(actualBoard);
+                    if (result != null) {
+                        gameOver(result);
+                    } else {
+                        handleAIPlayer();
+                    }
                 }
             }
         }
