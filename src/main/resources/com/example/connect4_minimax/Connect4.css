@@ -1,0 +1,39 @@
+.root {
+    -fx-background-color: #323232;
+}
+
+.game-board-grid {
+    -fx-background-color: #333333;
+    -fx-padding: 5px;
+
+}
+
+#label {
+    -fx-font-weight: bold;
+    -fx-font-size: 26px;
+    -fx-text-fill: black;
+    -fx-background-color: #B0B0B0;
+    -fx-background-radius: 8px;
+    -fx-padding: 5px 40px;
+}
+
+.column-button {
+    -fx-background-color: #B0B0B0;
+    -fx-background-radius: 8px;
+    -fx-border-color: black;
+    -fx-border-radius: 8px;
+    -fx-border-width: 2px;
+    -fx-padding: 10px;
+    -fx-margin: 0;
+}
+
+.column-button:hover {
+    -fx-background-color: #909090;
+    -fx-border-color: #606060;
+}
+
+.column-button:pressed {
+    -fx-background-color: #707070;
+    -fx-border-color: #505050;
+}
+
