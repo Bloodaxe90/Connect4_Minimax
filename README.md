@@ -24,7 +24,8 @@ Run the main method in the Connect4Application class
 
 <h2>Results:</h2>
 
-A screenshot of the final game  
+This project was very successful with the final AI able to consistently beat me
+
 ![image](https://github.com/user-attachments/assets/6a15fbae-33ce-4cef-b40c-48aadd3ca62f)
 
 
